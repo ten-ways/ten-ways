@@ -1,6 +1,8 @@
 <span align="center">
   <h1>Hi, I'm tenways! 👋</h1>
 
+  <br>
+
   <p>I'm a developer from England. My primary language is JavaScript and I'm currently learning C++. I enjoy writing bots for the messaging platform Discord. I also have an interest in fullstack development and machine learning.</p>
 
   <br>
@@ -11,4 +13,8 @@
   <a target="_blank" href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
   <a target="_blank" href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
   <a target="_blank" href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
+  
+  <h1></h1>
+
 </span>
+
