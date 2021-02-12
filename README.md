@@ -1,7 +1,7 @@
 <span align="center">
   <h1>Hi, I'm tenways! 👋</h1>
 
-  <p>I'm a developer from England. My primary language is JavaScript and I'm currently learning C++. I enjoy writing bots for the messaging plafrom Discord. I also have an interest in fullstack development and machine learning.</p>
+  <p>I'm a developer from England. My primary language is JavaScript and I'm currently learning C++. I enjoy writing bots for the messaging platform Discord. I also have an interest in fullstack development and machine learning.</p>
 
   <br>
 
