@@ -1,5 +1,14 @@
-### Hi, I'm tenways! 👋
+<span align="center">
+  <h1>Hi, I'm tenways! 👋</h1>
 
-I'm a developer from England. My primary language is JavaScript and I'm currently learning ReactJS. I enjoy writing bots for the messaging plafrom Discord and backend development.
+  <p>I'm a developer from England. My primary language is JavaScript and I'm currently learning C++. I enjoy writing bots for the messaging plafrom Discord. I also have an interest in fullstack development and machine learning.</p>
 
-- 👻 Working on a slash command library for Discord bots.
+  <br>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
+</span>
