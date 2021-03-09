@@ -3,10 +3,6 @@
 
   <br>
 
-  <p>I'm a developer from England. My primary language is JavaScript and I'm currently learning C++. I enjoy writing bots for the messaging platform Discord. I also have an interest in fullstack development and machine learning.</p>
-
-  <br>
-
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40"/></a>
   <a target="_blank" href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/></a>
   <a target="_blank" href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></a>
